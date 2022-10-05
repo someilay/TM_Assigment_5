@@ -29,4 +29,4 @@
 
    Render results for Task1 would be located in `media/videos/task_1/1080p60/Task1.mp4`
 
-   Be ready, rendering can take a couple of minutes
+   Be aware, rendering can take a couple of minutes
